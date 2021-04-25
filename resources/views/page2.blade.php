@@ -11,7 +11,7 @@
 
                       <h1 class="mb-4">Hey there, Let's <strong>talk</strong> about <strong>creative</strong> projects</h1>
 
-                      <p>or email us at <a href="mailto:farahaitelahmadi@gmail.com">ahmadifarah@gmail.com</a></p>
+                      <p>or email us at <a href="mailto:farahaitelahmadi@gmail.com">farahaitelahmadi@gmail.com</a></p>
                     </div>
 
                     <div class="col-lg-8 mx-auto col-md-10 col-12">

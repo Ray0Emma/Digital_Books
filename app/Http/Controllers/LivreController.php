@@ -10,9 +10,9 @@ use Illuminate\Http\Request;
 class LivreController extends Controller
 {
     //first fuction
-    public function index($n)
+    public function index()
     {
-        return view('page1')->with('numero',$n);
+        return view('page1');
     }
     public function show()
     {

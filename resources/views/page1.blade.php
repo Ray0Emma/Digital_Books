@@ -15,7 +15,7 @@
                      <a href="page2" class="custom-btn btn-bg btn mt-3" data-aos="fade-up" data-aos-delay="100">
                      Let us discuss together!</a>
                      <strong class="d-block py-3 pl-5 text-white" data-aos="fade-up" data-aos-delay="200">
-                     <i class="fa fa-phone mr-2"></i>  +212 633 366 {{$numero}}</strong>
+                     <i class="fa fa-phone mr-2"></i>  +212 633 366 901</strong>
                 </div>
             </div>
 
@@ -38,13 +38,12 @@
             <div class="col-lg-7 mx-auto col-md-10 col-12">
                 <div class="about-info">
 
-                    <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong>
+                    <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Books agency</strong>
                         in Morocco
                     </h2>
 
                     <p class="mb-0" data-aos="fade-up">For more informations about us.
-                    Please check <a href="#">blog</a> pages,
-                    <a href="#">project</a> page, and <a href="page2">Contact </a> page.
+                    Please check <a href="page2">Contact </a> page.
                     <br><br>These are the words we <strong>live by</strong> in everything we do. Every story
                      we tell, every book we share , and every interaction we create must not only look beautiful
                      but has to feel and function beautifully, too.
@@ -59,102 +58,6 @@
         </div>
     </div>
 </section>
-
-
-    <!-- PROJECT -->
-        <section class="project section-padding" id="project">
-          <div class="container-fluid">
-               <div class="row">
-
-                    <div class="col-lg-12 col-12">
-
-                        <h2 class="mb-5 text-center" data-aos="fade-up">
-                            Please take a look through our
-                            <strong>featured Digital Books</strong>
-                        </h2>
-
-                         <div class="owl-carousel owl-theme" id="project-slide">
-                              <div class="item project-wrapper" data-aos="fade-up" data-aos-delay="100">
-                                   <img src="{{ asset('images/project/project-image01.jpg')}}" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Marketing</small>
-
-                                        <h3>
-                                             <a href="#">
-                                                  <span>Sweet Go Agency</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('images/project/project-image02.jpg')}}" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Website</small>
-
-                                        <h3>
-                                             <a href="#">
-                                                  <span>Smarty</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('images/project/project-image03.jpg')}}" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Branding</small>
-
-                                        <h3>
-                                             <a href="#">
-                                                  <span>Covers factory</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('images/project/project-image04.jpg')}}" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Social Media</small>
-
-                                        <h3>
-                                             <a href="#">
-                                                  <span>Race Bicycle</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-
-                              <div class="item project-wrapper" data-aos="fade-up">
-                                   <img src="{{ asset('images/project/project-image05.jpg')}}" class="img-fluid" alt="project image">
-
-                                   <div class="project-info">
-                                        <small>Video</small>
-
-                                        <h3>
-                                             <a href="#">
-                                                  <span>Ultimate HealthCare</span>
-                                                  <i class="fa fa-angle-right project-icon"></i>
-                                             </a>
-                                        </h3>
-                                   </div>
-                              </div>
-                         </div>
-                    </div>
-
-               </div>
-          </div>
-</section>
-
 
 <!-- TESTIMONIAL -->
 <section class="testimonial section-padding">

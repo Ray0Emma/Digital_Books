@@ -27,34 +27,18 @@ Route::get('/livresList',[LivreController::class,'showAll']);
 Route::get('/livresUpdate/{id}',[LivreController::class,'showId']);
 Route::post('/livresUpdate/{id}',[LivreController::class,'Update']);
 Route::get('/livresDelete/{id}',[LivreController::class,'delete']);
-Route::get('/test/{n}',[LivreController::class,'index']);
+Route::get('/',[LivreController::class,'index']);
 
 Route::get('/addPhoto',[PhotoController::class,'show']);
 Route::get('/imageUpload',[PhotoController::class,'show']);
 Route::post('/test',[PhotoController::class,'photo']);
 Route::get('/AuteurAdd',[AuteurController::class,'getForm']);
 Route::post('/AuteurAdd',[AuteurController::class,'addAuteur']);
-Route::get('/auteurListe',[AuteurController::class,'showAll']);
+Route::get('/auteursListe',[AuteurController::class,'showAll']);
 Route::get('/auteurDelete/{id}',[AuteurController::class,'delete']);
 Route::get('/auteurUpdate/{id}',[AuteurController::class,'showId']);
 Route::post('/auteurUpdate/{id}',[AuteurController::class,'Update']);
 
 
 
-/*
-@if(session()->has('error'))
-{!! session('error') !!}
-@endif
- dans controller use
- function photo(PhotoRequest $request)
- {
-     $image=$request->file('image');
-     if($image->isValid())
-     {
-         $chemin=
-     }
- }
 
-
-
-*/

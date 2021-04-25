@@ -69,7 +69,7 @@
 
             <div class="col-lg-5 mx-lg-auto col-md-8 col-10">
               <h1 class="text-white" data-aos="fade-up" data-aos-delay="100">
-                  We make creative <strong>brands</strong> only.</h1>
+                  We make creative <strong>Books</strong> only.</h1>
             </div>
 
             <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="200">
@@ -81,15 +81,15 @@
               </p>
 
               <p>
-                <a href="#">
-                  <i class="fa fa-envelope mr-2 footer-icon"></i>
-                  farahaitelahmadi@gmail.com
+                <a href="mailto:farahaitelahmadi@gmail.com">
+                  <i class="fa fa-envelope  footer-icon"></i>
+                  ahmadifarah22@gmail.com
                 </a>
               </p>
             </div>
 
             <div class="col-lg-3 col-md-6 col-12" data-aos="fade-up" data-aos-delay="300">
-              <h4 class="my-4">Our Studio</h4>
+              <h4 class="my-4">Our Location</h4>
 
               <p class="mb-1">
                 <i class="fa fa-home mr-2 footer-icon"></i>
@@ -98,7 +98,7 @@
             </div>
 
             <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
-              <p class="copyright-text">Copyright &copy; 2021 FRay
+              <p class="copyright-text">Copyright &copy; 2021 Farah
             </div>
 
             <div class="col-lg-4 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="500">
@@ -112,9 +112,9 @@
 
             <div class="col-lg-3 mx-lg-auto col-md-6 col-12" data-aos="fade-up" data-aos-delay="600">
               <ul class="social-icon">
-                <li><a href="#" class="fa fa-instagram"></a></li>
+                <li><a href="https://github.com/Ray0Emma" class="fa fa-github"></a></li>
                 <li><a href="https://twitter.com/FRay81194" class="fa fa-twitter"></a></li>
-                <li><a href="#" class="fa fa-dribbble"></a></li>
+                <li><a href="https://www.linkedin.com/in/farah-ahmadi" class="fa fa-linkedin"></a></li>
                 <li><a href="#" class="fa fa-behance"></a></li>
               </ul>
             </div>
