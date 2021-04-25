@@ -83,7 +83,7 @@
               <p>
                 <a href="#">
                   <i class="fa fa-envelope mr-2 footer-icon"></i>
-                  ahmadifarah@gmail.com
+                  farahaitelahmadi@gmail.com
                 </a>
               </p>
             </div>
